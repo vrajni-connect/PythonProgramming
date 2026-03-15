@@ -1,0 +1,3 @@
+mobile | 100
+tab | 200
+laptop | 300
